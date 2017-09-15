@@ -266,4 +266,4 @@ Time of learning process: **xxx**
 ## Grab the code or run project in online IDE
 
 
-You can also check [here](https://github.com/simongeek/KerasT) my other Keras Cifar-10 classification using 4,6-layer neural nets.
+You can also check [here](https://github.com/plon-io/cifar10keras) my other Keras CIFAR-10 classification using 4 and 6-layer neural nets.
